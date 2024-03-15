@@ -1,19 +1,6 @@
-# First
+# My First Project BMI Calculator
 
-A new Flutter project created with FlutLab - https://flutlab.io
-
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+# Output 
+![1](https://github.com/moixKhalil/Flutter_Project/assets/120629900/e164896f-1019-47e5-9f8e-ea7a9cff2e63)
+![2](https://github.com/moixKhalil/Flutter_Project/assets/120629900/afc8e41d-7880-4302-8625-979b9e9f2bc6)
+![3](https://github.com/moixKhalil/Flutter_Project/assets/120629900/19400e2a-8144-4067-923d-cdf90ea0bb61)
